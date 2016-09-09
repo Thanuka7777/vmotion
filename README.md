@@ -81,16 +81,25 @@ Click on Finish to start the migration.
 ![image](https://cloud.githubusercontent.com/assets/15711984/18396447/435f51b2-76e1-11e6-8e20-62bf2fe8ded5.png)
 
 vMotion pros:
+
 •	Dynamic allocation services of the software allow you to allocate resources and memory while the processes are running.
+
 •	Security service of the software is flexible and allows you to implement user defined policy enforcement.
+
 •	The software supports all major operating systems as well as wide range of hardware.
+
 •	vMotion allows to precisely identify the optimal placement for virtual machine.
+
 •	Virtual machines can be optimized within resource pools automatically.
 
  vMotion cons:
+ 
 •	There is no module for performance management on the software.
+
 •	Unlike its competitors, the software does not offer any reporting capabilities.
+
 •	Configuration features of the software do not include auto recovery, configuration history, and NIC teaming capabilities.
+
 •	There are no performance management features of adaptive analysis, memory compression, and continuous resource allocation on the software.
 
 
